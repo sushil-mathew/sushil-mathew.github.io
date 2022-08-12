@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to my page!
+This website is still very much under construction. But one of the chief aims for my website is to create public goods. So I'm going to leave the content below, in case it helps you build your own website and if you're a starter like me. 
 
 You can use the [editor on GitHub](https://github.com/sushil-mathew/sushil-mathew.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

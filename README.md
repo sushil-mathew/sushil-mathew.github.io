@@ -1,5 +1,5 @@
 ## About me
-I am a Research and Teaching Assistant in the Economics Department at the University of Warwick. I am an incoming PhD in Economics and Public Policy at Imperial College London. My primary research interests are in development economics, applied econometrics and data science, but I do find most economics research interesting.
+I am a Research and Teaching Assistant in the Economics Department at the University of Warwick. I am an incoming PhD student on the Economics and Public Policy program at Imperial College London. My primary research interests are in development economics, applied econometrics and data science, but I do find most economics research interesting.
 
 ### Research-in-progress
 #### Changing body weight of adolescents in Great Britain: The role of fast food.   

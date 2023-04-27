@@ -1,7 +1,5 @@
 ## About me
-I am a Research and Teaching Assistant in the Economics Department at the University of Warwick. My research interests are centered around development economics broadly. 
-My current research interest is in understanding why we have differences in Female Labour Force Participation (FLFP) around the world. I hope to understand what are the consequences of these differences on macroeconomic output.  I would also like to then take a long-term view and understand some of the factors that have positively enabled higher FLFP in countries around the world. Using this, it would be useful to understand if we can apply these same transformations in countries with relatively low FLFP.
-At the heart of it, to answer these questions, we would need to be able to measure things that are unobserved. For instance, we don't observe a counterfactual world where a country with low FLFP, has high FLFP. I would love to use a combination of data, theoretical modelling and econometrics creatively to answer these questions.
+I am a Research and Teaching Assistant in the Economics Department at the University of Warwick. I am an incoming PhD in Economics and Public Policy at Imperial College London. My primary research interests are centered around development economics and applied econometrics and data science.
 
 ### Research-in-progress
 #### Changing body weight of adolescents in Great Britain: The role of fast food.   
